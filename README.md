@@ -23,5 +23,5 @@ Make sure Python is installed on your system.
 python number_guessing.py
 
 # Author
-*Divyani Kawde*  
+Divyani Kawde  
 SkillCraft Internship – Task 02
